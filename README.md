@@ -48,8 +48,8 @@
 
 <section id="Stats">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=JustJie2002&count_private=true&theme=tokyonight&rank_icon=github&custom_title=My%20GitHub%20Stats" />
+<img height=190 align="center" src="https://github-readme-stats.vercel.app/api/?username=JustJie2002&count_private=true&theme=tokyonight&rank_icon=github&custom_title=My%20GitHub%20Stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJie2002&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&theme=tokyonight" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJie2002&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&theme=tokyonight" />
 </a>
