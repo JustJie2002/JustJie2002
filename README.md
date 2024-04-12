@@ -11,6 +11,7 @@
 
 ## Languages & Technology :computer:
 
+<!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 <section id=":)">
 <!-- Language -->
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -48,6 +49,7 @@
     
 ## Contact Me 📲
 
+
 <p align="left">
     <a href="https://www.linkedin.com/in/jie-chen-777a2420a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
     <a href="https://www.reddit.com/user/570897055/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="LinkedIn" height="30" width="40"/></a>
@@ -55,6 +57,8 @@
 
 <!-- Github Statistics -->
 ## Statistics :chart_with_upwards_trend:
+
+![](https://leetcard.jacoblin.cool/JustJie?ext=contest)
 
 <section id="Stats">
 <a href="https://github.com/anuraghazra/github-readme-stats">
